@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
               height: 300,
             ),
             new Image(
-              image: new AssetImage('assets/luchadortocat.1.png'),
+              image: new AssetImage('assets/luchadortocat.png'),
               fit: BoxFit.scaleDown,
               height: 300,
             ),
